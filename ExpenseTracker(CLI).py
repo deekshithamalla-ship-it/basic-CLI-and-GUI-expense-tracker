@@ -1,3 +1,4 @@
+# personal expense tracker project
 expense_list=[]
 #  function 1 adding expenses(date,category,amount)
 def add_expense():
